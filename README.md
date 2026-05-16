@@ -6,7 +6,7 @@
 - 📫 **How to reach me:** kbyeongchan23@gmail.com
 
 
-# 🧰 Tech Stack & Tools
+## 🧰 Tech Stack & Tools
 - **Languages:** C, C++, Verilog, Python
 - **Tools/Frameworks:** ROS2, Linux, MATLAB
 - **Hardware/Concepts:** FPGA, RTL Design, Digital Logic
