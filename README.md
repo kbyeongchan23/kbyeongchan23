@@ -8,5 +8,5 @@
 
 ## 🧰 Tech Stack & Tools
 - **Languages:** C, C++, Verilog, Python
-- **Tools/Frameworks:** ROS2, Linux, MATLAB
+- **Tools/Frameworks:** ROS2, MATLAB
 - **Hardware/Concepts:** FPGA, RTL Design, Digital Logic
